@@ -1,0 +1,10 @@
+{
+  "apps": [{
+    "serverURL": "http://meet-map.herokuapp.com/parse",
+    "appId": "meet-map",
+    "masterKey": "MeetMapMasterKeyCSKCCVKA",
+    "appName": "meet-map",
+    "iconName": ""
+  }],
+  "iconsFolder": "icons"
+}
